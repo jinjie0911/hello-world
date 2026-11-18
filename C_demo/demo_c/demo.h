@@ -1,0 +1,1 @@
+extern void vdg_demo_main(void);
